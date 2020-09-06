@@ -7,7 +7,7 @@ Fonte original: Receita Federal do Brasil<br>
 Licença: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)<br>
 
 ### empresa.csv
-44.467.068 de registros.
+44.467.068 de registros.<br>
 cnpj
 identificador_matriz_filial
 razao_social
@@ -43,7 +43,7 @@ SHA512SUMS:3da3737b63e556000baf981017ece05e66dab1f755baf000e20c1797e189463966afa
 https://data.brasil.io/dataset/socios-brasil/empresa.csv.gz
 
 ### socios.csv
-27.176.265 de registros.
+27.176.265 de registros.<br>
 cnpj
 identificador_de_socio
 nome_socio
@@ -58,7 +58,7 @@ SHA512SUMS:6df2eb0281857dbc9cdc09bba58c32d92b08387ee73b9b869d05d26ec38cabc34d9cf
 https://data.brasil.io/dataset/socios-brasil/socio.csv.gz
 
 ### cnae_cnpj.csv
-101.394.871 de registros.
+101.394.871 de registros.<br>
 cnpj
 cnae
 primaria
@@ -66,14 +66,14 @@ SHA512SUMS:5b5c105fe008ae26683439b34c8502a6da741cfcf4159fd7d33f3c50d35ae7fc3b822
 https://data.brasil.io/dataset/socios-brasil/cnae_cnpj.csv.gz
 
 ### cnae_secundaria.csv
-56.927.802 de registros.
+56.927.802 de registros.<br>
 cnpj
 cnae
 SHA512SUMS:fc95a09ebc160d0a503f31c4279ea723b67b54c8dcaeda7143b1df34ff65c5f2b68754d590ad966e78a4b4abdbdff599a64114ed8303be3bc7646876e3a83ab6
 https://data.brasil.io/dataset/socios-brasil/cnae_secundaria.csv.gz
 
 ### holding.csv
-507.551 de registros.
+507.551 de registros.<br>
 holding_cnpj
 holding_razao_social
 cnpj

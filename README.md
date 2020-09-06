@@ -1,7 +1,7 @@
-### EmpresasBrasileiras2020
-## Por Murilo Krominski.
+### Por Murilo Krominski.
 
 # Empresas Brasileiras e Sócios.<br>
+Dados capturados em 19 de Julho de 2020.<br>
 Quadros societários e de administradores das pessoas jurídicas brasileiras.<br>
 Fonte original: Receita Federal do Brasil<br>
 Licença: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)<br>

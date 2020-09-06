@@ -7,7 +7,7 @@ Quadros societários e de administradores das pessoas jurídicas brasileiras.<br
 Fonte original: Receita Federal do Brasil<br>
 Licença: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)<br>
 
-### empresa.csv - 44.467.068 de registros.<br>
+### empresa.csv - 44.467.068 de registros.
 cnpj<br>
 identificador_matriz_filial<br>
 razao_social<br>

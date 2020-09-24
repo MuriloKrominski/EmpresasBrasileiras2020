@@ -10,9 +10,9 @@ Fonte original: Receita Federal do Brasil<br>
 Licença: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)<br>
 
 ### empresa.csv - 44.467.068 de registros.
-cnpj<br>
+*cnpj<br>
 identificador_matriz_filial<br>
-razao_social<br>
+*razao_social<br>
 nome_fantasia<br>
 situacao_cadastral<br>
 data_situacao_cadastral<br>
@@ -45,7 +45,7 @@ https://drive.google.com/drive/folders/1NhpfbNxLZ3SFxmgHQfgW0QKObePsdf85?usp=sha
 SHA512SUMS:3da3737b63e556000baf981017ece05e66dab1f755baf000e20c1797e189463966afa2f12a4977ab6e3a993f1a0e3e4619a182c61ab038868f6903dcfe9f5a12
 
 ### socios.csv - 27.176.265 de registros.
-cnpj<br>
+*cnpj<br>
 identificador_de_socio<br>
 nome_socio<br>
 cnpj_cpf_do_socio<br>
@@ -61,8 +61,8 @@ SHA512SUMS:6df2eb0281857dbc9cdc09bba58c32d92b08387ee73b9b869d05d26ec38cabc34d9cf
 ### holding.csv - 507.551 de registros.
 holding_cnpj<br>
 holding_razao_social<br>
-cnpj<br>
-razao_social<br>
+*cnpj<br>
+*razao_social<br>
 codigo_qualificacao_socia<br>
 qualificacao_socia<br>
 https://drive.google.com/drive/folders/1NhpfbNxLZ3SFxmgHQfgW0QKObePsdf85?usp=sharing<br>

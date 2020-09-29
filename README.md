@@ -41,7 +41,7 @@ data_exclusao_do_simples<br>
 opcao_pelo_mei<br>
 situacao_especial<br>
 data_situacao_especial<br>
-https://drive.google.com/drive/folders/1NhpfbNxLZ3SFxmgHQfgW0QKObePsdf85?usp=sharing<br>
+https://mega.nz/file/KQ5DhQQA#ulBJQRqQfu9p1vPgyBdpxLgIUzF-T4YGCfpvUFsQJus<br>
 SHA512SUMS:3da3737b63e556000baf981017ece05e66dab1f755baf000e20c1797e189463966afa2f12a4977ab6e3a993f1a0e3e4619a182c61ab038868f6903dcfe9f5a12
 
 ### socios.csv - 27.176.265 de registros.

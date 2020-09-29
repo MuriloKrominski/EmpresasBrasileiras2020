@@ -55,7 +55,7 @@ data_entrada_sociedade<br>
 cpf_representante_legal<br>
 nome_representante_legal<br>
 codigo_qualificacao_representante_legal<br>
-https://drive.google.com/drive/folders/1NhpfbNxLZ3SFxmgHQfgW0QKObePsdf85?usp=sharingz<br>
+https://mega.nz/file/fV4jhAzb#zVAxIa6nlzMB1yLgcA5JYh6BuiUAdHzFqzJyTWRIEYw<br>
 SHA512SUMS:6df2eb0281857dbc9cdc09bba58c32d92b08387ee73b9b869d05d26ec38cabc34d9cf9a6d3d681c491cff38513a13147d0c7207b63f583573aa32424bbe5f129
 
 ### holding.csv - 507.551 de registros.

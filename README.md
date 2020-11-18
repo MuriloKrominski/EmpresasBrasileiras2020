@@ -1,6 +1,6 @@
 Por Murilo Krominski.
 
-# RESULTADO: https://murilokrominski.github.io/StrictoSensu-Brasil-2017a2020/
+## RESULTADO: https://murilokrominski.github.io/StrictoSensu-Brasil-2017a2020/
 
 # [2017 a 2020] Programas da Pós-Graduação Stricto Sensu no Brasil<br>
 Os dados da seção contêm informações sobre os programas de pós-graduação stricto sensu no Brasil.
@@ -411,4 +411,4 @@ IFrame(src = 'StrictoSensu sweetviz.html',width=1000,height=600)
 
 <a href="https://murilokrominski.github.io/StrictoSensu-Brasil-2017a2020/">StrictoSensu sweetviz.html</a>    
  
- # RESULTADO: https://murilokrominski.github.io/StrictoSensu-Brasil-2017a2020/
+ ## RESULTADO: https://murilokrominski.github.io/StrictoSensu-Brasil-2017a2020/

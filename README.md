@@ -1,5 +1,7 @@
 Por Murilo Krominski.
 
+Relatorios: https://murilokrominski.github.io/StrictoSensu-Brasil-2017a2020/
+
 # [2017 a 2020] Programas da Pós-Graduação Stricto Sensu no Brasil<br>
 Os dados da seção contêm informações sobre os programas de pós-graduação stricto sensu no Brasil.
 
@@ -362,7 +364,7 @@ profile.to_notebook_iframe()
 profile.to_file(output_file="StrictoSensu ProfileReport")
 ```
 
-<a href="https://raw.githubusercontent.com/MuriloKrominski/StrictoSensu-Brasil-2017a2020/master/StrictoSensu%20ProfileReport.html">StrictoSensu ProfileReport.html</a>    
+<a href="https://murilokrominski.github.io/StrictoSensu-Brasil-2017a2020/">StrictoSensu ProfileReport.html</a>    
   
 
 ```python
@@ -407,5 +409,5 @@ from IPython.display import IFrame
 IFrame(src = 'StrictoSensu sweetviz.html',width=1000,height=600)
 ```
 
-<a href="https://raw.githubusercontent.com/MuriloKrominski/StrictoSensu-Brasil-2017a2020/master/StrictoSensu%20sweetviz.html">StrictoSensu sweetviz.html</a>    
+<a href="https://murilokrominski.github.io/StrictoSensu-Brasil-2017a2020/">StrictoSensu sweetviz.html</a>    
  
